@@ -1,5 +1,5 @@
 # EDA-Gemstone-Data-Kaggle
-This Dataset is available on Kaggle on link https://www.kaggle.com/colearninglounge/gemstone-price-prediction<br>
+This Dataset is available on Kaggle(https://www.kaggle.com/colearninglounge/gemstone-price-prediction)<br>
 
 Objective : Predict Price of Gemstone using the values provided.<br>
 
